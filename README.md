@@ -1,5 +1,5 @@
-👨‍💻 Software Developer | Victor Floyd
-🚀 Full-stack developer | JavaScript, Python
-💡 Passionate about web development and open source
+👨🏾‍💻 Software Developer | Victor Floyd
+🚀 Full-stack | JavaScript, Python
+🌐 Open Source Contributor 
 ✉️ Contact me: dev@VictorFloyd.work
-🔗 Connect on LinkedIn: www.linkedin.com/in/vfloydev
+🔗 Connect: https://www.biodrop.io/Victor-Floyd
