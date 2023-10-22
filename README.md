@@ -1,4 +1,4 @@
-👨🏾‍💻 Software Developer | Victor Floyd
+👨🏾‍💻 Software Developer | 
 🚀 Full-stack | JavaScript, Python
 🌐 Open Source Contributor 
 ✉️ Contact me: dev@VictorFloyd.work
