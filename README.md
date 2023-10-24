@@ -1,5 +1,4 @@
-👨🏾‍💻 Software Developer | 
-🚀 Full-stack | JavaScript, Python
-🌐 Open Source Contributor 
-✉️ Contact me: dev@VictorFloyd.work
+👨🏾‍💻 Software Engineer ||
+✍🏼 Tech Blogger ||
+🧡 Open Source and Tech Community Enthusiast ||
 🔗 Connect: https://www.biodrop.io/Victor-Floyd
