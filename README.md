@@ -1,2 +1,2 @@
 👨🏾‍💻 Software Engineer ||
-🛡️ Cyber Security Specialist ||
+🛡️ Cyber Security Specialist 
