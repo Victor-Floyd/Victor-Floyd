@@ -1,6 +1,6 @@
  <h1>
  Hi, I'm Victor! <br/>
- <a href="https://www.linkedin.com/in/victorfloyd/">🛡️ Cybersecurity Engineer</a>
+ <a href="https://www.linkedin.com/in/victorfloyd/">🛡️ Cybersecurity Engineer, </a>
  <a href="https://github.com/Victor-Floyd">💻 Programmer</a>
  </h1>
 
