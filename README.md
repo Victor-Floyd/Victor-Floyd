@@ -6,7 +6,7 @@
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
-- <b>Microsoft Windows Defender and Firewall</b>
+- <b>Configure Firewall Rules using Microsoft Windows Defender Firewall with and without Advanced Security</b>
   - (https://github.com/Victor-Floyd/Microsoft_Defender-Firewall)
  
 <h2>💻  Software Development:</h2>
