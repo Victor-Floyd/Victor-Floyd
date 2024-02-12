@@ -11,7 +11,7 @@
  
 <h2>💻  Software Development:</h2>
 
-- <b>Scalekey</b>
+- <b>Vanilla Javascript Web App</b>
   - (https://https://github.com/Victor-Floyd/Scalekey)
  
 
