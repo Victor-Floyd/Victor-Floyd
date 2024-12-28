@@ -1,6 +1,6 @@
  <h1>
  Hi, I'm Victor! <br/>
- <a href="https://www.linkedin.com/in/victorfloyd/">Cloud Engineer | Software Engineer</a>
+ <a href="https://www.linkedin.com/in/victorfloyd/">Infosec / Developer</a>
  </h1>
 
 <h2>🛡️ Cybersecurity Projects:</h2>
