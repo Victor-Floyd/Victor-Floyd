@@ -5,7 +5,7 @@
 
  <h2>Vulnerability Management Projects</h2>
  
- [Vulnerability Management Program Implementation](https://github.com/Victor-Floyd/vulnerability-management-program)
+ • [Vulnerability Management Program Implementation](https://github.com/Victor-Floyd/vulnerability-management-program)
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
