@@ -1,11 +1,11 @@
  # [Victor Floyd's](https://www.linkedin.com/in/victorfloyd) IT and Cybersecurity Project Portfolio
 
 
- <h2>Vulnerability Management Projects</h2>
+ <h2>⚠️ Vulnerability Management Projects</h2>
  
  • [Vulnerability Management Program Implementation](https://github.com/Victor-Floyd/vulnerability-management-program)
 
-<h2>🚨 Threat Hunting and Security Operations</h2>
+<h2>🕵️‍♂️ Threat Hunting and Security Operations</h2>
 
 • [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Victor-Floyd/threat-hunting-scenario-tor-browser/blob/main/README.md)
 
