@@ -1,7 +1,7 @@
  # [Victor Floyd's](https://www.linkedin.com/in/victorfloyd) IT and Cybersecurity Project Portfolio
 
 
- <h2>⚠️ Vulnerability Management Projects</h2>
+ <h2>⚠️ Vulnerability Management</h2>
  
  • [Vulnerability Management Program Implementation](https://github.com/Victor-Floyd/vulnerability-management-program)
 
