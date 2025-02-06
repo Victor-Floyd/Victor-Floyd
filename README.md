@@ -10,7 +10,7 @@
 • [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Victor-Floyd/threat-hunting-scenario-tor-browser/blob/main/README.md)
 
 
-<h2>🛡️ Cybersecurity Projects:</h2>
+<h2>🛡️ Configuration </h2>
 
 • [Installing, Using, and Blocking a Malware-based Backdoor](https://github.com/Victor-Floyd/backdoor)
 
